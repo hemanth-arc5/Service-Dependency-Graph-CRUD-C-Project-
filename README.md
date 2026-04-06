@@ -41,6 +41,11 @@ This system simulates cloud infrastructure (like AWS, Azure, Kubernetes), where:
   * `struct`
   * Linked Lists
   * Dynamic Memory Allocation (`malloc`, `free`)
+ 
+---
+##Basic Idea 
+<img width="508" height="470" alt="image" src="https://github.com/user-attachments/assets/144020e9-e2be-4464-9f04-f54aa3750d5b" />
+
 
 ---
 
@@ -128,35 +133,6 @@ gcc main.c -o project
 
 ##  Sample Output
 
-```
-1.Add Service
-2.Add Dependency
-3.Delete Service
-4.Update Service
-5.Search
-6.Display
-7.Exit
-
-Auth -> Database -> NULL
-Payment -> Auth -> NULL
-```
-
----
-
-##  Project Structure
-
-```
-project/
- ├── src/
- │   └── main.c
- ├── docs/
- │   └── project_report.pdf
- ├── ppt/
- │   └── presentation.pptx
- ├── README.md
- └── sample_output.txt
-```
-
 ---
 
 ##  Technologies Used
@@ -190,8 +166,5 @@ This project demonstrates how graphs can be used to efficiently manage service d
 
 
 
-* Data Structures in C – Books
-* Online tutorials on Graphs
-* Cloud architecture documentation
-
+ 
 ---
