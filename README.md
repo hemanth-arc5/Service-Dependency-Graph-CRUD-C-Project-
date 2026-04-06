@@ -3,7 +3,7 @@
 ##  Team Members
 
 * Hemanth
-* Vishanu
+* Vishnu
 
 ---
 
@@ -213,7 +213,7 @@ This project demonstrates how graphs can be used to efficiently manage service d
 * Search Service
 
 <img width="361" height="79" alt="Screenshot 2026-04-06 221517" src="https://github.com/user-attachments/assets/7b94a37f-69ab-4cc3-add4-d73936e50107" />
-**
+
 <img width="321" height="46" alt="Screenshot 2026-04-06 221529" src="https://github.com/user-attachments/assets/2f1049b3-2de4-4100-ab58-a53c6f1bc3d8" />
 
 * Display
