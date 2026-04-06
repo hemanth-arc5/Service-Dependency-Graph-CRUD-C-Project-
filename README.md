@@ -74,18 +74,6 @@ This system simulates cloud infrastructure (like AWS, Azure, Kubernetes), where:
 
 ---
 
-##  Menu Options
-
-1. Add Service
-2. Add Dependency
-3. Delete Service
-4. Update Service
-5. Search Service
-6. Display Graph
-7. Exit
-
----
-
 ##  System Design
 
 * Graph implemented using adjacency list
@@ -165,7 +153,16 @@ This project demonstrates how graphs can be used to efficiently manage service d
 
 ---
 
+---
 
+##  Menu Options
 
- 
+1. Add Service
+2. Add Dependency
+3. Delete Service
+4. Update Service
+5. Search Service
+6. Display Graph
+7. Exit
+
 ---
