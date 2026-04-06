@@ -171,19 +171,16 @@ This project demonstrates how graphs can be used to efficiently manage service d
 
 * Main Menu
 
- <img width="160" height="156" alt="Screenshot 2026-04-06 211013" src="https://github.com/user-attachments/assets/9432e293-37ab-4d72-9a7c-d7e002c65a8f" />
+<img width="160" height="156" alt="Screenshot 2026-04-06 211013" src="https://github.com/user-attachments/assets/9432e293-37ab-4d72-9a7c-d7e002c65a8f" />
 
 * Add Service
 
-  <img width="248" height="67" alt="Screenshot 2026-04-06 210255" src="https://github.com/user-attachments/assets/b7ac6a0a-4732-43ee-ab99-1547c85dd925" />
+<img width="248" height="67" alt="Screenshot 2026-04-06 210255" src="https://github.com/user-attachments/assets/b7ac6a0a-4732-43ee-ab99-1547c85dd925" />
 
 * Add Dependency
 
- <img width="249" height="89" alt="Screenshot 2026-04-06 210331" src="https://github.com/user-attachments/assets/9007ad1d-9b9f-4428-8e2a-6b0d858982b3" />
-
-** Add Service
+<img width="249" height="89" alt="Screenshot 2026-04-06 210331" src="https://github.com/user-attachments/assets/9007ad1d-9b9f-4428-8e2a-6b0d858982b3" />
  
-
 * Delete Service 
 
 <img width="160" height="156" alt="image" src="https://github.com/user-attachments/assets/f31a609d-d75c-4765-a5b6-da2fd8dc13a3" />
