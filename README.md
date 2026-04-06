@@ -173,27 +173,27 @@ This project demonstrates how graphs can be used to efficiently manage service d
 
  <img width="160" height="156" alt="Screenshot 2026-04-06 211013" src="https://github.com/user-attachments/assets/9432e293-37ab-4d72-9a7c-d7e002c65a8f" />
 
- * 1. Add Service
+*Add Service
 
   <img width="248" height="67" alt="Screenshot 2026-04-06 210255" src="https://github.com/user-attachments/assets/b7ac6a0a-4732-43ee-ab99-1547c85dd925" />
 
-* 2. Add Dependency
+*Add Dependency
 
  <img width="249" height="89" alt="Screenshot 2026-04-06 210331" src="https://github.com/user-attachments/assets/9007ad1d-9b9f-4428-8e2a-6b0d858982b3" />
 
- ** Add Service
+ **Add Service
  
 
-  * 3. Delete Service 
+*Delete Service 
 
 <img width="160" height="156" alt="image" src="https://github.com/user-attachments/assets/f31a609d-d75c-4765-a5b6-da2fd8dc13a3" />
 
-* 4. Update Srevice
+*Update Srevice
 
 <img width="178" height="91" alt="Screenshot 2026-04-06 210451" src="https://github.com/user-attachments/assets/3018ac37-8247-4605-bef8-6717c860e44b" />
 
 
- **Before
+**Before
  
 <img width="233" height="139" alt="Screenshot 2026-04-06 210357" src="https://github.com/user-attachments/assets/491ca49b-53d8-47e9-86e1-2290ff24720e" />
 
@@ -201,15 +201,15 @@ This project demonstrates how graphs can be used to efficiently manage service d
 
 <img width="233" height="63" alt="Screenshot 2026-04-06 210504" src="https://github.com/user-attachments/assets/e81a4ec2-c002-4830-bb2b-0aeb5c6698e9" />
 
-* 5. Search Service
+*Search Service
 
 <img width="251" height="65" alt="Screenshot 2026-04-06 210528" src="https://github.com/user-attachments/assets/4537eedc-52b2-4efc-a98e-7764504cfbba" />
 
-* 6. Display
+*Display
 
 <img width="233" height="63" alt="Screenshot 2026-04-06 210504" src="https://github.com/user-attachments/assets/3fd879b7-dfee-48bc-867c-0250ceb647b2" />
 
-* 7.Exist
+*Exist
 
 <img width="149" height="44" alt="Screenshot 2026-04-06 210717" src="https://github.com/user-attachments/assets/492a0485-a833-4dec-8736-b9a694f2c4de" />
 
