@@ -200,13 +200,13 @@ This project demonstrates how graphs can be used to efficiently manage service d
 * Update Srevice
 
 <img width="267" height="91" alt="Screenshot 2026-04-06 222901" src="https://github.com/user-attachments/assets/0bd50b9c-eaed-4131-8a7a-4d2259854b7e" />
+ 
+ Before
 
-** Before
-
- <img width="307" height="78" alt="Screenshot 2026-04-06 222914" src="https://github.com/user-attachments/assets/50dcd0f5-1ba6-4ef7-8589-7b8bcf93cf90" />
+<img width="333" height="79" alt="Screenshot 2026-04-06 221436" src="https://github.com/user-attachments/assets/b14c62c1-9b70-4565-b067-c1ef6614d5fe" />
 
 
-** After
+  After
 
 <img width="301" height="69" alt="Screenshot 2026-04-06 221503" src="https://github.com/user-attachments/assets/f69b1dde-0b9b-4f67-a3ca-a19155d2d33a" />
  
