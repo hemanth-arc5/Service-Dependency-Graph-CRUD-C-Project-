@@ -199,19 +199,21 @@ This project demonstrates how graphs can be used to efficiently manage service d
 
 * Update Srevice
 
+<img width="267" height="91" alt="Screenshot 2026-04-06 222901" src="https://github.com/user-attachments/assets/0bd50b9c-eaed-4131-8a7a-4d2259854b7e" />
 
 ** Before
 
-<img width="178" height="91" alt="Screenshot 2026-04-06 210451" src="https://github.com/user-attachments/assets/3018ac37-8247-4605-bef8-6717c860e44b" />
+ <img width="307" height="78" alt="Screenshot 2026-04-06 222914" src="https://github.com/user-attachments/assets/50dcd0f5-1ba6-4ef7-8589-7b8bcf93cf90" />
+
 
 ** After
 
 <img width="301" height="69" alt="Screenshot 2026-04-06 221503" src="https://github.com/user-attachments/assets/f69b1dde-0b9b-4f67-a3ca-a19155d2d33a" />
  
-
 * Search Service
 
 <img width="361" height="79" alt="Screenshot 2026-04-06 221517" src="https://github.com/user-attachments/assets/7b94a37f-69ab-4cc3-add4-d73936e50107" />
+
 
 <img width="321" height="46" alt="Screenshot 2026-04-06 221529" src="https://github.com/user-attachments/assets/2f1049b3-2de4-4100-ab58-a53c6f1bc3d8" />
 
