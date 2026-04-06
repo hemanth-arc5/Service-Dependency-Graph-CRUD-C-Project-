@@ -187,12 +187,12 @@ This project demonstrates how graphs can be used to efficiently manage service d
   
 <img width="337" height="78" alt="Screenshot 2026-04-06 221430" src="https://github.com/user-attachments/assets/b326d1ef-9bc0-4d83-b6e1-7dd9c2db2bcf" />
 
-** Before
+ Before
 
 <img width="426" height="101" alt="Screenshot 2026-04-06 221348" src="https://github.com/user-attachments/assets/fc27af57-dbbb-405d-a72e-6101d5a88a13" />
 
 
-** After
+ After
 
 <img width="333" height="79" alt="Screenshot 2026-04-06 221436" src="https://github.com/user-attachments/assets/67fe5964-967b-44b8-917a-b99aff4dae32" />
 
@@ -213,8 +213,7 @@ This project demonstrates how graphs can be used to efficiently manage service d
 * Search Service
 
 <img width="361" height="79" alt="Screenshot 2026-04-06 221517" src="https://github.com/user-attachments/assets/7b94a37f-69ab-4cc3-add4-d73936e50107" />
-
-
+**
 <img width="321" height="46" alt="Screenshot 2026-04-06 221529" src="https://github.com/user-attachments/assets/2f1049b3-2de4-4100-ab58-a53c6f1bc3d8" />
 
 * Display
