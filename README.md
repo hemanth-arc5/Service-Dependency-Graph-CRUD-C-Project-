@@ -44,6 +44,7 @@ This system simulates cloud infrastructure (like AWS, Azure, Kubernetes), where:
  
 ---
 ##Basic Idea 
+
 <img width="508" height="470" alt="image" src="https://github.com/user-attachments/assets/144020e9-e2be-4464-9f04-f54aa3750d5b" />
 
 
