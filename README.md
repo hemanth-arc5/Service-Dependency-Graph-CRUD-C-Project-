@@ -43,9 +43,10 @@ This system simulates cloud infrastructure (like AWS, Azure, Kubernetes), where:
   * Dynamic Memory Allocation (`malloc`, `free`)
  
 ---
-## Basic Idea 
+## Basic Idea(graph)
 
-<img width="508" height="470" alt="image" src="https://github.com/user-attachments/assets/144020e9-e2be-4464-9f04-f54aa3750d5b" />
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/d31862d3-9d7b-4a2c-b52e-8641cb02524d" />
+
 
 
 ---
