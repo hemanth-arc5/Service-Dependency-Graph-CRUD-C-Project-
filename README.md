@@ -174,38 +174,52 @@ This project demonstrates how graphs can be used to efficiently manage service d
 <img width="160" height="156" alt="Screenshot 2026-04-06 211013" src="https://github.com/user-attachments/assets/9432e293-37ab-4d72-9a7c-d7e002c65a8f" />
 
 * Add Service
+  
+<img width="284" height="83" alt="Screenshot 2026-04-06 221028" src="https://github.com/user-attachments/assets/4c61a312-9a69-43ab-98ae-11f65b58decd" />
 
-<img width="248" height="67" alt="Screenshot 2026-04-06 210255" src="https://github.com/user-attachments/assets/b7ac6a0a-4732-43ee-ab99-1547c85dd925" />
 
 * Add Dependency
 
-<img width="249" height="89" alt="Screenshot 2026-04-06 210331" src="https://github.com/user-attachments/assets/9007ad1d-9b9f-4428-8e2a-6b0d858982b3" />
+<img width="334" height="87" alt="Screenshot 2026-04-06 221059" src="https://github.com/user-attachments/assets/ec285637-a664-47ba-9f7c-0021090a8e45" />
+
  
-* Delete Service 
-
-<img width="160" height="156" alt="image" src="https://github.com/user-attachments/assets/f31a609d-d75c-4765-a5b6-da2fd8dc13a3" />
-
-* Update Srevice
-
-<img width="178" height="91" alt="Screenshot 2026-04-06 210451" src="https://github.com/user-attachments/assets/3018ac37-8247-4605-bef8-6717c860e44b" />
-
+* Delete Service
+  
+<img width="337" height="78" alt="Screenshot 2026-04-06 221430" src="https://github.com/user-attachments/assets/b326d1ef-9bc0-4d83-b6e1-7dd9c2db2bcf" />
 
 ** Before
- 
-<img width="233" height="139" alt="Screenshot 2026-04-06 210357" src="https://github.com/user-attachments/assets/491ca49b-53d8-47e9-86e1-2290ff24720e" />
+
+<img width="426" height="101" alt="Screenshot 2026-04-06 221348" src="https://github.com/user-attachments/assets/fc27af57-dbbb-405d-a72e-6101d5a88a13" />
+
 
 ** After
 
-<img width="233" height="63" alt="Screenshot 2026-04-06 210504" src="https://github.com/user-attachments/assets/e81a4ec2-c002-4830-bb2b-0aeb5c6698e9" />
+<img width="333" height="79" alt="Screenshot 2026-04-06 221436" src="https://github.com/user-attachments/assets/67fe5964-967b-44b8-917a-b99aff4dae32" />
+
+
+* Update Srevice
+
+
+** Before
+
+<img width="178" height="91" alt="Screenshot 2026-04-06 210451" src="https://github.com/user-attachments/assets/3018ac37-8247-4605-bef8-6717c860e44b" />
+
+** After
+
+<img width="301" height="69" alt="Screenshot 2026-04-06 221503" src="https://github.com/user-attachments/assets/f69b1dde-0b9b-4f67-a3ca-a19155d2d33a" />
+ 
 
 * Search Service
 
-<img width="251" height="65" alt="Screenshot 2026-04-06 210528" src="https://github.com/user-attachments/assets/4537eedc-52b2-4efc-a98e-7764504cfbba" />
+<img width="361" height="79" alt="Screenshot 2026-04-06 221517" src="https://github.com/user-attachments/assets/7b94a37f-69ab-4cc3-add4-d73936e50107" />
+
+<img width="321" height="46" alt="Screenshot 2026-04-06 221529" src="https://github.com/user-attachments/assets/2f1049b3-2de4-4100-ab58-a53c6f1bc3d8" />
 
 * Display
 
-<img width="233" height="63" alt="Screenshot 2026-04-06 210504" src="https://github.com/user-attachments/assets/3fd879b7-dfee-48bc-867c-0250ceb647b2" />
+<img width="305" height="85" alt="Screenshot 2026-04-06 221540" src="https://github.com/user-attachments/assets/a822e025-5445-4217-b62a-e30c74815516" />
 
+ 
 * Exist
 
 <img width="149" height="44" alt="Screenshot 2026-04-06 210717" src="https://github.com/user-attachments/assets/492a0485-a833-4dec-8736-b9a694f2c4de" />
