@@ -135,7 +135,7 @@ gcc main.c -o project
 
 ##  Demo Video
 
- Google Drive Link: *(https://drive.google.com/file/d/11Xo4sZqWcD0p6n_6uZA7Luggu8_i_r8o/view?usp=drive_link)*
+ Google Drive Link: *(https://drive.google.com/file/d/11Xo4sZqWcD0p6n_6uZA7Luggu8_i_r8o/view?usp=sharing)*
 
 ---
 
