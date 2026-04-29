@@ -1,10 +1,10 @@
  ## Service Dependency Graph CRUD (C Project)
 
 ##  Team Members
-|**NAME**   |        **Department **|
-|----------|-------------------------|
-| Hemanth | school of computer science|
-| Vishnu  | school of computer science|
+|**Name**   |**Department **         |**Year**|
+|----------|-------------------------|--------|
+| Hemanth | school of computer science|frist year|
+| Vishnu  | school of computer science|frist year|
 
 ---
 
